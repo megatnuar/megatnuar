@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Megat. I am driven and passionate about cybersecurity and physics. <br>I like solving and analyzing complex problems and I enjoy working with technology
+My name is Megat. I am driven and passionate about cybersecurity and physics. <br>I like solving and analyzing complex problems and I enjoy working with technology.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/megat-nurul-anwar-ahmad-nazeri-897676220) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/megatnuar123) 
